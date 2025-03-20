@@ -1,4 +1,4 @@
-title: Samuel Fiyinfoluwa Adekunle # Add your name
+title: Adekunle Samuel Fiyinfoluwa # Add your name
 role: Frontend Engineer # Add your role/position
 company: Tizela # Add your company name
 
@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A self-taught Fullstack Web Engineer. Currently shaping user experiences on the web.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://links.fiyin.ng" # the base hostname & protocol for your site, e.g. http://example.com
-keywords: Samuel Adekunle, Frontend Engineer, Tizela, self-taught, web engineer, user experiences, Nigerian, developer, UI/UX, developer, fullstack
+keywords: Samuel Adekunle, adekunle samuel fiyinfoluwa, Frontend Engineer, Tizela, self-taught, web engineer, user experiences, Nigerian, developer, UI/UX, developer, fullstack, adekunle samuel links
 theme-color: "#4ade80" # Used for browser theme-color meta tag
 
 gravatar: 8144e6d8a310aa504e7f7e369a53c562 # Gravatar md5 hash
@@ -34,7 +34,7 @@ author:
 analytics:
   enabled: false
   google:
-    tracking_id: #Add your Google analytics tracking ID here
+    tracking_id: G-5NEHP4J1W9
 
 sass:
   style: compressed
