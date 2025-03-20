@@ -32,7 +32,7 @@ author:
 
 ### Analytics ###
 analytics:
-  enabled: false
+  enabled: true
   google:
     tracking_id: G-5NEHP4J1W9
 
