@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A self-taught Fullstack Web Engineer. Currently shaping user experiences on the web.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://links.fiyin.ng" # the base hostname & protocol for your site, e.g. http://example.com
-keywords: Samuel Adekunle, adekunle samuel fiyinfoluwa, Frontend Engineer, Tizela, self-taught, web engineer, user experiences, Nigerian, developer, UI/UX, developer, fullstack, adekunle samuel links
+keywords: Samuel Adekunle, adekunle samuel fiyinfoluwa, Fullstack Engineer, Turva, self-taught, web engineer, user experiences, Nigerian, developer, UI/UX, developer, fullstack, adekunle samuel links
 theme-color: "#4ade80" # Used for browser theme-color meta tag
 
 gravatar: 8144e6d8a310aa504e7f7e369a53c562 # Gravatar md5 hash
@@ -19,7 +19,7 @@ author:
   x: try_samuell
   instagram: try_samuelll
   github: try-samuel
-  linkedin: samuel-adekunle-a995a8213
+  linkedin: adekunle-samuel-fiyinfoluwa
   pinterest: try_samuel
   youtube: "@try_samuel"
   # snapchat: DbxlCI0I
